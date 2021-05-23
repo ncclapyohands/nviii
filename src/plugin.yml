@@ -1,0 +1,9 @@
+name: NVIII
+main: com.nviii.ServerMain.Main
+version: 1.0
+author: ncclapyohands
+description: First server plugin
+
+commands:
+  hello:
+    description: This is a hello command!
