@@ -7,3 +7,9 @@ description: First server plugin
 commands:
   hello:
     description: This is a hello command!
+    
+  boomboom:
+    description: where did they go?
+    
+  ignite:
+    description: arson
